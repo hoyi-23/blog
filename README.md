@@ -1,10 +1,10 @@
-# blog
+# Personal Blog
 
 ## Tool
 
-1. Astro
-2. GitHub Action
-
+1. [Astro](https://docs.astro.build/en/getting-started/)
+2. Storyblck - content management system
+2. Vercel - automatically deploy to vercel
 
 ### Why I choose Astro ?
 During that time, I decided to start my own blog. I thought about using Hexo as the blog platform because it comes with loads of ready-to-use themes. But, as I checked out all those themes, I just couldn't find one that I really liked. I even had the crazy idea of making my own theme, but then I realized I'd have to learn this thing called ejs, which seemed like a hassle just for "making my own theme on Hexo."
@@ -18,4 +18,7 @@ Right at that moment, I stumbled upon Astro. The cool thing was that Astro could
 * My Project
 * Personal Changelog
 
-### 
+### Progress
+
+#### [Astro and Storyblok](https://docs.astro.build/zh-tw/guides/cms/storyblok/)
+Astro is a static site generator, which means it generates all pages at build time.
